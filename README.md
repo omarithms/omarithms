@@ -1,4 +1,5 @@
-👋 Hi there I am Omar Aspiring Software Developer with interests in software engineering, cybersecurity, and systems. 
+👋 Hi there I am Omar 
+Aspiring Software Developer with interests in software engineering, cybersecurity, and systems. 
 
 🔭 Currently Working On
 - Building development projects  
