@@ -1,5 +1,6 @@
 Hi there I am Omar 👋
 Aspiring Software Developer with interests in software engineering, cybersecurity, and systems. 
+
 Seeking to grow into a skilled software developer with strong foundations in development and security.
 
 🔭 Currently Working On
@@ -16,6 +17,7 @@ Seeking to grow into a skilled software developer with strong foundations in dev
 - Cybersecurity Fundamentals  
 
 🛠 Tech & Tools
+
 **Languages:** Python, JavaScript, HTML, CSS  (Learning)
 
 **Tools:** Git, GitHub, VS Code, Linux, Docker (Learning)  
