@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Aspiring Software Developer with interests in software engineering, cybersecurity, and systems.<br><br>📚 I'm currently learning<br><br>- Python & JavaScript<br>- Git & GitHub<br>- Linux<br>- Networking<br>- Web Development<br>- Cybersecurity Fundamentals<br><br>🔭 Currently Working On<br><br>- Building development projects<br>- Strengthening programming fundamentals<br>- Exploring security labs and practical cybersecurity skills</p>
+<p align="left">✨ Aspiring Software Developer with interests in software engineering, cybersecurity, and systems.<br><br>📚 I'm currently learning<br><br>• Python & JavaScript<br>• Git & GitHub<br>• Linux<br>• Networking<br>• Web Development<br>• Cybersecurity Fundamentals<br><br>🔭 Currently Working On<br><br>• Building development projects<br>• Strengthening programming <br>• Fundamentals<br>• Exploring security labs and practical cybersecurity skills</p>
 
 ###
 
