@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi there I am Omar 👋
+Aspiring Software Developer with interests in software engineering, cybersecurity, and systems. 
+Seeking to grow into a skilled software developer with strong foundations in development and security.
 
-<!--
-**omarithms/omarithms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focused on building strong foundations in:
+- Software Development  
+- Web Technologies  
+- Cybersecurity  
+- Linux & Networking  
 
-Here are some ideas to get you started:
+🔭 Currently Working On
+- Building development projects  
+- Strengthening programming fundamentals  
+- Exploring security labs and practical cybersecurity skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Python & JavaScript  
+- Git & GitHub  
+- Linux  
+- Networking  
+- Web Development  
+- Cybersecurity Fundamentals  
+
+🛠 Tech & Tools
+**Languages:** Python, JavaScript, HTML, CSS  (Learning)
+
+**Tools:** Git, GitHub, VS Code, Linux, Docker (Learning)  
+
+**Security:** Kali Linux, Wireshark, Nmap, Burp Suite (Learning)
+
+👯 Open To
+- Open-source collaboration  
+- Development projects  
+- Internship opportunities  
+- Learning with other developers  
+
+⚡ Goal
+Growing into a skilled software developer with strong foundations in development and security.
